@@ -1,2 +1,1 @@
-# Solidity-Contracts
-DEFI, NFT, NFT Market Place
+Daily limit on transfer and buy tokens.
